@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://78820194.github.io</id>
     <title>千峰云起</title>
-    <updated>2021-09-18T09:07:30.297Z</updated>
+    <updated>2021-09-18T09:33:33.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://78820194.github.io"/>
     <link rel="self" href="https://78820194.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://78820194.github.io/images/avatar.png</logo>
     <icon>https://78820194.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 千峰云起</rights>
+    <entry>
+        <title type="html"><![CDATA[免费静态博客搭建]]></title>
+        <id>https://78820194.github.io/post/mian-fei-jing-tai-bo-ke-da-jian/</id>
+        <link href="https://78820194.github.io/post/mian-fei-jing-tai-bo-ke-da-jian/">
+        </link>
+        <updated>2021-09-18T09:21:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>免费搭建自己的个人静态博客</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>免费搭建自己的个人静态博客</p>
+<!-- more -->
+<p>01 前言<br>
+哪个男孩不想拥有自己的博客呢</p>
+<p>最近由于想搭建自己的博客，研究了很多博客程序。动态博客按理说是最简单的，但是由于我没有海外服务器，国内服务器又需要备案，所以就把目光投向了静态博客。Hexo，Hugo之类的程序试了一圈，觉得太麻烦了。最后，我找到了一个神器——Gridea。<br>
+02 软件介绍<br>
+Gridea 是一个静态博客写作客户端，它可以帮助你零门槛构建并管理你的博客。<br>
+03 软件体验<br>
+它可以在软件内直接配置远程静态页面托管服务，并一键同步；<br>
+<A href="https://oss.aree.top/img/52pojie/01.png" target=_blank><IMG title="" height=400 title src="https://oss.aree.top/img/52pojie/01.png" border=0></A><br>
+它可以直接新建文档；<br>
+<A href="https://oss.aree.top/img/52pojie/02.png" target=_blank><IMG title="" height=400 title src="https://oss.aree.top/img/52pojie/02.png" border=0></A><br>
+它可以随意切换主题；<br>
+<A href="https://oss.aree.top/img/52pojie/03.png" target=_blank><IMG title="" height=400 title src="https://oss.aree.top/img/52pojie/03.png" border=0></A><br>
+它原生支持评论系统。<br>
+<A href="https://oss.aree.top/img/52pojie/04.png" target=_blank><IMG title="" height=400 title src="https://oss.aree.top/img/52pojie/04.png" border=0></A></p>
+<p>03 官网&amp;下载地址<br>
+官网：https://gridea.dev<br>
+Github地址：https://github.com/getgridea/gridea<br>
+Github下载地址：https://github.com/getgridea/gridea/releases/download/v0.9.2/Gridea.Setup.0.9.2.exe<br>
+分流：https://gh.aree.top/https://github.com/getgridea/gridea/releases/download/v0.9.2/Gridea.Setup.0.9.2.exe<br>
+https://oss.aree.top/dl/Gridea.Setup.0.9.2.exe</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://78820194.github.io/post/hello-gridea/</id>
